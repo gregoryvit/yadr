@@ -19,4 +19,4 @@
 - [2018 Roadmap to iOS Development](https://www.reddit.com/r/iOSProgramming/comments/82w6qa/2018_roadmap_to_ios_development/)
 - [Team Lead proficiency matrix - Google Sheets](https://docs.google.com/spreadsheets/d/1HFOJRbCVuoqDx_PSKam3xdFV3vKd-XCj5f2ZudWIcNc/edit#gid=0)
 - [Product Designer Competency Matrix - Google Sheets](https://docs.google.com/spreadsheets/d/1pm5NLpKmiSmYI3G65GJ8QwO6PgShHyrfWvUbJT5Dmlg/edit#gid=0)
-- [QA Competancy matrix - Google Sheets
+- [QA Competancy matrix - Google Sheets](https://docs.google.com/spreadsheets/d/1IHyHoOmQEm74FFGTokCqUk1ApstWNOzlj2HLfbl0Atw/edit#gid=0)
