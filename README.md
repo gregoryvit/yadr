@@ -7,7 +7,7 @@
 
 ## ⭐️ Матрица компетенций iOS разработчика
 
-Актуальная версия матрицы находится в виде [gdocs таблицы](https://docs.google.com/spreadsheets/d/1XDKe1eYXSIeMDZPabQCkq2icbFG0vipcjcIA5vmpEnc/edit?usp=sharing). 
+Актуальная версия матрица находится [вот здесь](https://docs.google.com/spreadsheets/d/e/2PACX-1vSBn-TP-xt4VaMyHGbOrkWyD6ShXqP-49oG7FVSKvsATm265wP26DkIvN2SdOl2bTVFhTM7l7P03Kcx/pubhtml?gid=0&single=true).
 
 ## 📚 Материалы
 
